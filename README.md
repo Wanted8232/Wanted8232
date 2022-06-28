@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Wanted8232
+- 👋 Hi, I’m @Shivam Kumar
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Data structure and algorithm
 - 💞️ I’m looking to collaborate on ...
